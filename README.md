@@ -1,12 +1,11 @@
-utilities
-=========
+# utilities
 
 These are random utilities I've created so I don't need to look up stuff repeatedly, 
 or if I just feel like tinkering with something.
 
 
-BCrypt_test
------------
+## BCrypt_test
+
 This script can be used to display how long it takes to produce a password 
 hash using bcrypt. The built-in benchmark module is used for timing.
 
